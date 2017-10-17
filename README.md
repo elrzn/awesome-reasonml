@@ -66,8 +66,8 @@ See the official guide [here](https://reasonml.github.io/guide/editor-tools/glob
 ### BuckleScript
 * [Homepage](https://bucklescript.github.io/bucklescript/)
 * [BuckleScript Manual](https://bucklescript.github.io/bucklescript/Manual.html)
-* [Reason Playground](https://bucklescript.github.io/bucklescript/reason-demo/)
-* [BuckleScript Playground](https://bucklescript.github.io/bucklescript/js-demo/)
+* [Reason Playground](https://reasonml.github.io/try/)
+* [BuckleScript Playground](https://bucklescript.github.io/bucklescript-playground/)
 * [Reasonml-community index](https://github.com/reasonml-community/index)
 
 ---
